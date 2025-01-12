@@ -1,0 +1,131 @@
+2025-01-12 08:02:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\grouping.xml
+
+2025-01-12 08:03:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\grouping.xml
+
+2025-01-12 08:03:49 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 08:03:50 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 08:03:50 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 08:03:50 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 08:03:51 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 08:03:51 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 11:10:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\grouping.xml
+
+2025-01-12 11:10:18 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 11:10:19 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 11:10:19 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 11:10:19 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 11:10:21 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 11:10:21 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 11:10:24 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 11:10:25 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 11:10:25 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 11:10:25 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 11:10:26 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 11:10:26 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 11:17:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\grouping.xml
+
+2025-01-12 11:17:31 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 11:17:32 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 11:17:33 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 11:17:33 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 11:17:34 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 11:17:34 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 11:17:37 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 11:17:38 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 11:17:38 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 11:17:38 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 11:17:39 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 11:30:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\test-output\testng-failed.xml
+
+2025-01-12 11:30:15 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 11:30:16 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 11:30:16 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 11:30:16 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 11:30:18 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 11:30:18 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 11:38:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\grouping.xml
+
+2025-01-12 11:38:33 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 11:38:33 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 11:38:34 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 11:38:34 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 11:38:36 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 11:38:36 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 11:38:38 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 11:38:39 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 11:38:39 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 11:38:39 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 11:38:40 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 11:38:40 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 11:39:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\grouping.xml
+
+2025-01-12 11:42:56 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 11:42:56 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 11:42:57 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 11:42:57 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 11:43:00 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 11:43:00 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 11:43:04 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 11:43:04 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 11:43:04 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 11:43:04 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 11:43:05 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 11:43:06 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 11:44:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\OpenCartV121\grouping.xml
+
+2025-01-12 11:44:58 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 11:44:58 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 11:44:59 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 11:44:59 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 11:45:01 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 11:45:01 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 11:45:04 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 11:45:05 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 11:45:05 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 11:45:05 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 11:45:06 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 11:45:06 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 16:49:07 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 16:49:07 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 16:49:08 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 16:49:08 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 16:49:10 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 16:49:10 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 16:49:15 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 16:49:15 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 16:49:15 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 16:49:15 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 16:49:16 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 16:49:16 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 17:11:50 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 17:11:51 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 17:11:51 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 17:11:51 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 17:11:53 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 17:11:53 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 17:11:57 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 17:11:57 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 17:11:58 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 17:11:58 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 17:11:59 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 17:11:59 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-01-12 17:31:06 INFO  TC_001_AccountRegistrationTest:15 - ****TC_001_AccountRegistrationTest****
+2025-01-12 17:31:06 INFO  TC_001_AccountRegistrationTest:20 - ****Clicked on My account link****
+2025-01-12 17:31:06 INFO  TC_001_AccountRegistrationTest:22 - ****Clicked on Register Link****
+2025-01-12 17:31:06 INFO  TC_001_AccountRegistrationTest:26 - ****Providing Customer details****
+2025-01-12 17:31:08 INFO  TC_001_AccountRegistrationTest:40 - ****Verifying Confirmation message****
+2025-01-12 17:31:08 INFO  TC_001_AccountRegistrationTest:53 - ****Finished TC_001_AccountRegistrationTest****
+2025-01-12 17:31:12 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2025-01-12 17:31:12 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-12 17:31:13 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-12 17:31:13 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2025-01-12 17:31:14 INFO  TC002_LoginTest:32 - clicked on ligin button..
+2025-01-12 17:31:14 INFO  TC002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
